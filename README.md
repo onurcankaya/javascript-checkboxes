@@ -2,5 +2,6 @@
 
 30 day vanilla javascript
 
-## Day 10
+## Day 9
+
 Checklist made with vanilla javascript
